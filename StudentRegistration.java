@@ -119,7 +119,7 @@ public class StudentRegistration {
 }
 
 class Student{
-    private String fullName = "af";
+    private String fullName = "";
     private String id_no;
    
     public Student(String fullName,String id_no){
